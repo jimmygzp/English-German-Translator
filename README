@@ -2,7 +2,7 @@ alignment_sample_model1.txt, alignment_sample_model1.txt - Sample alignment outp
 
 sample_t_model1.txt, Sample output for top 10 translations.
 
-devwords.txt - English words list for q4 and q5.
+devwords.txt - English words list.
 
 corpus.en.gz, corpus.de.gz - Corpus for q4 - q6.
 
